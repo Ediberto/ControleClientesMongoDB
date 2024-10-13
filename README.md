@@ -4,7 +4,7 @@ Este é um aplicativo que posibilita o cadastro de cadastro de registros em de u
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/projetomongoDB/imagens/foto01.png" width="260">&emsp;<img src="/imagem/imagem02.png" width="260">&emsp;<img src="/imagem/imagem03.png" width="260">&emsp;<img src="/imagem/imagem04.png" width="260">&emsp;
+<img src="/projetomongoDB/imagens/foto01.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto02.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto03.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto04.png" width="260">&emsp;
 
 ## Tecnologias
 * React-Native
