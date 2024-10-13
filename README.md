@@ -7,25 +7,26 @@ Este é um aplicativo que posibilita o cadastro de cadastro de registros em de u
 <img src="/projetomongoDB/imagens/foto01.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto02.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto03.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto04.png" width="260">&emsp;
 
 ## Tecnologias
-* React-Native
-* Visual Studio Code
-* Node.js
-* MySQL
-* bodyParser.json
-* SQL
-* db.connect
-* useState
-* navigation
-* axios
+* NetBeans
+* mongoDB
+* DBCollection
+* MongoClient
+* BasicDBObject
+* DBCursor
+* printStackTrace
+* Java
+* java.util.List
+* javax.swing
+  
 - Components de UI
-    - View
-    - TextInput
-    - Button
-    - StyleSheet
-    - Text
-    - Image
-    - FlatList
-    - ScrollView
+    - JFormattedTextField
+    - JLabel
+    - initComponents
+    - JButton
+    - JTextField
+    - JPasswordField
+    - JFrame
+    
 ### TODO
 - Melhorar estilização do aplicativo, implementando mais regras de negócio com entradas de dados e geração de relatórios
 
