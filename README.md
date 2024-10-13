@@ -8,7 +8,7 @@ Este um aplicativo, de cadastro de registros, com uso de um banco de dados NÃO-
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/projetomongoDB/imagens/imagem01.png" width="260">&emsp;<img src="/imagem/imagem02.png" width="260">&emsp;<img src="/imagem/imagem03.png" width="260">&emsp;<img src="/imagem/imagem04.png" width="260">&emsp;
+<img src="/imagens/imagem01.png" width="260">&emsp;<img src="/imagem/imagem02.png" width="260">&emsp;<img src="/imagem/imagem03.png" width="260">&emsp;<img src="/imagem/imagem04.png" width="260">&emsp;
 
 ## Tecnologias
 * React-Native
