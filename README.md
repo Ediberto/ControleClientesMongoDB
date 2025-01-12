@@ -1,5 +1,5 @@
 # ControleClientesMongoDB
-Este é um aplicativo que posibilita o cadastro de cadastro de registros em de um banco de dados NÃO-RELACIONAL "o MongoDB". Resolvi implementar este protótipo com o objetivo de mostrar aos alunos da disciplina Programação Orientado a Objetos em java, o uso de um SGBD NOSQL, mostrando a diferença de armazenamento dos dados em relação aos SGBD´S RELACIONAIS.
+Este é um aplicativo que posibilita o controle de cadastro de registros em de um banco de dados NÃO-RELACIONAL "o MongoDB". Resolvi implementar este protótipo com o objetivo de mostrar aos alunos da disciplina Programação Orientada a Objetos em java, o uso de uma base de dados NÃO RELACIONAL (NOSQL), mostrando a diferença de armazenamento dos dados em relação aos SGBD´S RELACIONAIS.
 
 
 ## :camera_flash: Screenshots
